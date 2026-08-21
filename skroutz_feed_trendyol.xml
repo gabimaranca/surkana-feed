@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-  <created_at>2026-08-21 14:14:25</created_at>
+  <created_at>2026-08-21 17:10:07</created_at>
   <products>
     <product>
       <id>8434685528870</id>
@@ -1833,7 +1833,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>1</mpn>
+      <mpn>B06-015S26</mpn>
       <instock>Y</instock>
       <quantity>1</quantity>
       <size><![CDATA[Standard]]></size>
@@ -2167,7 +2167,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560674</mpn>
       <ean>5996610560674</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2185,7 +2184,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560018</mpn>
       <ean>5996610560018</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2208,7 +2206,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560476</mpn>
       <ean>5996610560476</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2231,7 +2228,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560544</mpn>
       <ean>5996610560544</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2253,7 +2249,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560483</mpn>
       <ean>5996610560483</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2275,7 +2270,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610561473</mpn>
       <ean>5996610561473</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2297,7 +2291,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560551</mpn>
       <ean>5996610560551</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2320,7 +2313,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610576859</mpn>
       <ean>5996610576859</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2342,7 +2334,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610558367</mpn>
       <ean>5996610558367</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2364,7 +2355,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610558329</mpn>
       <ean>5996610558329</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2387,7 +2377,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610559920</mpn>
       <ean>5996610559920</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2410,7 +2399,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610557667</mpn>
       <ean>5996610557667</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2432,7 +2420,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610559951</mpn>
       <ean>5996610559951</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2455,7 +2442,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610558336</mpn>
       <ean>5996610558336</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2478,7 +2464,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610559944</mpn>
       <ean>5996610559944</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2500,7 +2485,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610559937</mpn>
       <ean>5996610559937</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2522,7 +2506,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610559999</mpn>
       <ean>5996610559999</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2545,7 +2528,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560025</mpn>
+      <ean>5996610560025</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
@@ -2567,7 +2550,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560391</mpn>
       <ean>5996610560391</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2589,7 +2571,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610558381</mpn>
       <ean>5996610558381</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2610,7 +2591,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560025</mpn>
       <ean>5996610560025</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2632,7 +2612,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610559982</mpn>
       <ean>5996610559982</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2654,7 +2633,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560407</mpn>
       <ean>5996610560407</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2676,7 +2654,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610559753</mpn>
       <ean>5996610559753</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2699,7 +2676,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610559234</mpn>
       <ean>5996610559234</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2721,7 +2697,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610565471</mpn>
       <ean>5996610565471</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2744,7 +2719,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610561329</mpn>
       <ean>5996610561329</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2767,7 +2741,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610557711</mpn>
       <ean>5996610557711</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2789,7 +2762,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610559456</mpn>
       <ean>5996610559456</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2811,7 +2783,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610565983</mpn>
       <ean>5996610565983</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2833,7 +2804,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610559579</mpn>
       <ean>5996610559579</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2855,7 +2825,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610559555</mpn>
       <ean>5996610559555</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2877,7 +2846,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610559494</mpn>
       <ean>5996610559494</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2899,7 +2867,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560667</mpn>
       <ean>5996610560667</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2920,7 +2887,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610559401</mpn>
       <ean>5996610559401</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2942,7 +2908,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560636</mpn>
       <ean>5996610560636</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2964,7 +2929,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560582</mpn>
       <ean>5996610560582</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2986,7 +2950,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560575</mpn>
       <ean>5996610560575</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3008,7 +2971,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560650</mpn>
       <ean>5996610560650</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3030,7 +2992,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610559319</mpn>
       <ean>5996610559319</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3052,7 +3013,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560629</mpn>
       <ean>5996610560629</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3074,7 +3034,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610561077</mpn>
       <ean>5996610561077</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3096,7 +3055,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610561183</mpn>
       <ean>5996610561183</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3118,7 +3076,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610561220</mpn>
       <ean>5996610561220</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3139,7 +3096,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610561176</mpn>
       <ean>5996610561176</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3161,7 +3117,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560643</mpn>
       <ean>5996610560643</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3183,7 +3138,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610561213</mpn>
       <ean>5996610561213</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3205,7 +3159,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560612</mpn>
       <ean>5996610560612</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3227,7 +3180,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560599</mpn>
       <ean>5996610560599</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3249,7 +3201,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610561053</mpn>
       <ean>5996610561053</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3271,7 +3222,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560919</mpn>
       <ean>5996610560919</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3294,7 +3244,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560728</mpn>
       <ean>5996610560728</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3316,7 +3265,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610559777</mpn>
       <ean>5996610559777</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3338,7 +3286,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560711</mpn>
       <ean>5996610560711</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3361,7 +3308,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610559814</mpn>
       <ean>5996610559814</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3383,7 +3329,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610563712</mpn>
       <ean>5996610563712</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3405,7 +3350,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610561107</mpn>
       <ean>5996610561107</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3427,7 +3371,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560742</mpn>
       <ean>5996610560742</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3449,7 +3392,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610559777</mpn>
+      <ean>5996610559777</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
@@ -3469,7 +3412,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560056</mpn>
       <ean>5996610560056</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3538,7 +3480,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și broderie mică pe mânecă. Material: 100% bumbac jacquard pique.]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și broderie mică pe mânecă. Material: 100% bumbac jacquard pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610560452</id>
@@ -3583,7 +3525,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Ecru]]></color>
-      <description><![CDATA[Brand Heavy Tools. Bluze, culoare ecru, marime M.]]></description>
+      <description><![CDATA[Hanorac pentru femei cu guler rotund, croială lejeră, manșete și tiv cu nervuri, și branding brodat-imprimat pe partea din față. Material: 80% bumbac, 20% poliester. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610561480</id>
@@ -3628,7 +3570,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Negru]]></color>
-      <description><![CDATA[Brand Heavy Tools. Tricouri, culoare negru, marime M.]]></description>
+      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială slim fit și guler rotund, cu un imprimeu decorativ pe partea din față. Material: 95% bumbac, 5% elastan, single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610668363</id>
@@ -3651,7 +3593,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Brand Heavy Tools. Fuste, culoare albastru închis, marime M.]]></description>
+      <description><![CDATA[Fustă pentru femei din material de bumbac, lungime până la mijlocul coapsei, cu talie elastică și șnur, având un mic logo al brandului pe partea din față. Asorteaz-o cu puloverul nostru DINNA, THISI sau SIGLA. Material: 58% bumbac, 38% poliester, 4% elastan, French terry. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610560520</id>
@@ -3689,7 +3631,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560704</mpn>
       <ean>5996610560704</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3711,7 +3652,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560148</mpn>
       <ean>5996610560148</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3733,7 +3673,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610558435</mpn>
       <ean>5996610558435</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3755,7 +3694,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610558442</mpn>
       <ean>5996610558442</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3777,7 +3715,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610558565</mpn>
       <ean>5996610558565</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3799,7 +3736,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610558459</mpn>
       <ean>5996610558459</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3821,7 +3757,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560124</mpn>
       <ean>5996610560124</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3843,7 +3778,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610558497</mpn>
       <ean>5996610558497</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3865,7 +3799,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560100</mpn>
       <ean>5996610560100</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3887,7 +3820,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610558589</mpn>
       <ean>5996610558589</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3909,7 +3841,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560155</mpn>
       <ean>5996610560155</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3953,7 +3884,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610558510</mpn>
       <ean>5996610558510</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3975,7 +3905,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610561381</mpn>
       <ean>5996610561381</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3997,7 +3926,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610561343</mpn>
       <ean>5996610561343</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -4019,7 +3947,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560032</mpn>
       <ean>5996610560032</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -4041,7 +3968,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610561367</mpn>
       <ean>5996610561367</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -4174,7 +4100,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610560261</mpn>
       <ean>5996610560261</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -5017,7 +4942,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Brown]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și imprimeu mare pe față. Material: 100% bumbac single jersey.]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și imprimeu mare pe față. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>T16-030S25</id>
@@ -5055,7 +4980,6 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
-      <mpn>5996610558701</mpn>
       <ean>5996610558701</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -5083,7 +5007,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Maiou pentru bărbați, croială regular fit, cu umeri largi, având un mic logo al brandului pe partea din față. Material: 100% bumbac, single jersey.]]></description>
+      <description><![CDATA[Maiou pentru bărbați, croială regular fit, cu umeri largi, având un mic logo al brandului pe partea din față. Material: 100% bumbac, single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610642202</id>
@@ -5105,7 +5029,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Negru]]></color>
-      <description><![CDATA[Maiou pentru bărbați, croială regular fit, cu umeri înguști, logo mic al brandului pe față. Material: 100% bumbac, single jersey.]]></description>
+      <description><![CDATA[Maiou pentru bărbați, croială regular fit, cu umeri înguști, logo mic al brandului pe față. Material: 100% bumbac, single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610629432</id>
@@ -5128,7 +5052,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou cu mânecă lungă pentru bărbați, cu guler rotund, croială regular fit, cu un mic logo al brandului pe față. Material: 100% bumbac, material fluid.]]></description>
+      <description><![CDATA[Tricou cu mânecă lungă pentru bărbați, cu guler rotund, croială regular fit, cu un mic logo al brandului pe față. Material: 100% bumbac, material fluid. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610629654</id>
@@ -5174,7 +5098,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Bej]]></color>
-      <description><![CDATA[Cardigan fin tricotat pentru femei, cu decolteu în V, închidere cu nasturi și logo mic al brandului pe față. Compoziție material: 72% viscoză, 28% poliester.]]></description>
+      <description><![CDATA[Cardigan fin tricotat pentru femei, cu decolteu în V, închidere cu nasturi și logo mic al brandului pe față. Compoziție material: 72% viscoză, 28% poliester. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610647306</id>
@@ -5197,7 +5121,7 @@
       <quantity>1</quantity>
       <size><![CDATA[27-32]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Blugi clasici de damă cu 5 buzunare, design confortabil și închidere cu fermoar. Cureaua nu este inclusă cu pantalonii. Material: 98% bumbac, 2% elastan.]]></description>
+      <description><![CDATA[Blugi clasici de damă cu 5 buzunare, design confortabil și închidere cu fermoar. Cureaua nu este inclusă cu pantalonii. Material: 98% bumbac, 2% elastan. Modelul are 175 cm înălțime și poartă mărimea 27.]]></description>
     </product>
     <product>
       <id>5996610645487</id>
@@ -5220,7 +5144,7 @@
       <quantity>1</quantity>
       <size><![CDATA[27-32]]></size>
       <color><![CDATA[Bej]]></color>
-      <description><![CDATA[Pantaloni de damă cu croială tip creion, cu dungă, buzunar frontal și buzunar fals la spate. Realizați din material confortabil și elastic. Asortează-i cu sacoul nostru NATIS. Material: 80% poliester, 18% viscoză, 2% elastan.]]></description>
+      <description><![CDATA[Pantaloni de damă cu croială tip creion, cu dungă, buzunar frontal și buzunar fals la spate. Realizați din material confortabil și elastic. Asortează-i cu sacoul nostru NATIS. Material: 80% poliester, 18% viscoză, 2% elastan. Modelul are 175 cm înălțime și poartă mărimea 27.]]></description>
     </product>
     <product>
       <id>5996610647481</id>
@@ -5243,7 +5167,7 @@
       <quantity>1</quantity>
       <size><![CDATA[27-32]]></size>
       <color><![CDATA[Albastru]]></color>
-      <description><![CDATA[Blugi clasici de damă cu 5 buzunare, croială slim fit și închidere cu fermoar. Cureaua nu este inclusă cu pantalonii. Material: 98% bumbac, 2% elastan.]]></description>
+      <description><![CDATA[Blugi clasici de damă cu 5 buzunare, croială slim fit și închidere cu fermoar. Cureaua nu este inclusă cu pantalonii. Material: 98% bumbac, 2% elastan. Modelul are 175 cm înălțime și poartă mărimea 27.]]></description>
     </product>
     <product>
       <id>5996610647573</id>
@@ -5267,7 +5191,7 @@
       <quantity>1</quantity>
       <size><![CDATA[27-32]]></size>
       <color><![CDATA[Albastru]]></color>
-      <description><![CDATA[Blugi clasici de damă cu 5 buzunare, croială slim fit și închidere cu fermoar. Cureaua nu este inclusă cu pantalonii. Material: 98% bumbac, 2% elastan.]]></description>
+      <description><![CDATA[Blugi clasici de damă cu 5 buzunare, croială slim fit și închidere cu fermoar. Cureaua nu este inclusă cu pantalonii. Material: 98% bumbac, 2% elastan. Modelul are 175 cm înălțime și poartă mărimea 27.]]></description>
     </product>
     <product>
       <id>5996610646415</id>
@@ -5290,7 +5214,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Negru]]></color>
-      <description><![CDATA[Pantaloni lungi pentru femei cu craci largi. Buzunare drepte, talie elastică reglabilă. Material: 100% vâscoză.]]></description>
+      <description><![CDATA[Pantaloni lungi pentru femei cu craci largi. Buzunare drepte, talie elastică reglabilă. Material: 100% vâscoză. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>T22-004S25</id>
@@ -5633,7 +5557,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Pantaloni lungi pentru femei, cu croială dreaptă și confortabilă, tiv îndoit și dungă. Cu buzunare frontale, buzunar fals la spate și talie elastică. Material: 63% poliester, 32% viscoză, 5% elastan.]]></description>
+      <description><![CDATA[Pantaloni lungi pentru femei, cu croială dreaptă și confortabilă, tiv îndoit și dungă. Cu buzunare frontale, buzunar fals la spate și talie elastică. Material: 63% poliester, 32% viscoză, 5% elastan. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610672230</id>
@@ -5655,7 +5579,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Curea pentru bărbați, design împletit, cu detalii din piele ecologică, cu logo la capăt. Material: poliester și poliuretan. Disponibilă în mărimile .]]></description>
+      <description><![CDATA[Curea pentru bărbați, design împletit, cu detalii din piele ecologică, cu logo la capăt. Material: poliester și poliuretan. Disponibilă în mărimile 95 și 105.]]></description>
     </product>
     <product>
       <id>5996610672117</id>
@@ -5673,7 +5597,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Curea pentru bărbați cu design împletit, realizată din material elastic. Material: poliester elastic și poliuretan. Disponibilă în mărimile]]></description>
+      <description><![CDATA[Curea pentru bărbați cu design împletit, realizată din material elastic. Material: poliester elastic și poliuretan. Disponibilă în mărimile 95 și 105.]]></description>
     </product>
     <product>
       <id>5996610630544</id>
@@ -5695,7 +5619,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Alb]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și logo mare al brandului pe față. Material: 100% bumbac single jersey.]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și logo mare al brandului pe față. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610630339</id>
@@ -5717,7 +5641,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Galben]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și imprimeu mare pe față. Material: 100% bumbac single jersey]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și imprimeu mare pe față. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610630407</id>
@@ -5739,7 +5663,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și imprimeu mare pe față. Material: 100% bumbac single jersey]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și imprimeu mare pe față. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610672414</id>
@@ -5778,7 +5702,7 @@
       <quantity>1</quantity>
       <size><![CDATA[Mărime unică]]></size>
       <color><![CDATA[Ecru]]></color>
-      <description><![CDATA[Curea de damă cu detalii metalice și cataramă metalică. Material: poliuretan.]]></description>
+      <description><![CDATA[Curea de damă cu detalii metalice și cataramă metalică. Material: poliuretan. Disponibilă în mărimile 85 și 95.]]></description>
     </product>
     <product>
       <id>5996610657596</id>
@@ -5800,7 +5724,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Alb]]></color>
-      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială regular fit, guler rotund, realizat din material cu model logo. Material: 100% bumbac single jersey.]]></description>
+      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială regular fit, guler rotund, realizat din material cu model logo. Material: 100% bumbac single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610633484</id>
@@ -5822,7 +5746,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Negru]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, cu un imprimeu mare pe față. Material: 100% bumbac single jersey]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, cu un imprimeu mare pe față. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610633064</id>
@@ -5844,7 +5768,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Negru]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, cu un imprimeu mare pe față. Material: 100% bumbac single jersey.]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, cu un imprimeu mare pe față. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610635389</id>
@@ -5867,7 +5791,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, realizat din material ușor și moale. Material: 100% bumbac.]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, realizat din material ușor și moale. Material: 100% bumbac. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610654014</id>
@@ -5889,7 +5813,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Ecru]]></color>
-      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială lejeră, guler rotund și umeri căzuți. Stil extins cu mâneci întoarse și decorațiune mare imprimată pe față. Material: 50% bumbac, 50% modal, single jersey.]]></description>
+      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială lejeră, guler rotund și umeri căzuți. Stil extins cu mâneci întoarse și decorațiune mare imprimată pe față. Material: 50% bumbac, 50% modal, single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610653857</id>
@@ -5911,7 +5835,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou pentru femei cu mâneci scurte, croială lejeră, guler rotund, umeri căzuți și mâneci întoarse, cu un imprimeu mare pe partea din față. Material: 50% bumbac, 50% modal, single jersey.]]></description>
+      <description><![CDATA[Tricou pentru femei cu mâneci scurte, croială lejeră, guler rotund, umeri căzuți și mâneci întoarse, cu un imprimeu mare pe partea din față. Material: 50% bumbac, 50% modal, single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610636836</id>
@@ -5934,7 +5858,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Alb]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, realizat din material pique în dungi, cu un mic logo al brandului pe partea din față. Material: 100% bumbac pique.]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, realizat din material pique în dungi, cu un mic logo al brandului pe partea din față. Material: 100% bumbac pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610671837</id>
@@ -5978,7 +5902,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roz]]></color>
-      <description><![CDATA[Tricou cu mânecă scurtă pentru femei, realizat din material de bumbac premium, cu o croială lejeră, guler rotund și umeri căzuți. Dispune de un tiv cu șnur și un mic logo al brandului pe mânecă. Material: 100% bumbac.]]></description>
+      <description><![CDATA[Tricou cu mânecă scurtă pentru femei, realizat din material de bumbac premium, cu o croială lejeră, guler rotund și umeri căzuți. Dispune de un tiv cu șnur și un mic logo al brandului pe mânecă. Material: 100% bumbac. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610636225</id>
@@ -6001,7 +5925,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Verde]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, cu un imprimeu mare ton pe ton pe partea din față și un logo mic al brandului. Material: 100% bumbac single jersey.]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, cu un imprimeu mare ton pe ton pe partea din față și un logo mic al brandului. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610655936</id>
@@ -6023,7 +5947,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Ecru]]></color>
-      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, realizat din material de bumbac premium, cu guler rotund și mâneci până la cot, croială lejeră, mânecă decorată și logo mic al brandului pe față. Material: 100% bumbac.]]></description>
+      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, realizat din material de bumbac premium, cu guler rotund și mâneci până la cot, croială lejeră, mânecă decorată și logo mic al brandului pe față. Material: 100% bumbac. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610653475</id>
@@ -6045,7 +5969,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roșu]]></color>
-      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială slim fit, guler rotund, decorat cu imprimeu și broderie pe față. Material: 95% bumbac, 5% elastan, single jersey.]]></description>
+      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială slim fit, guler rotund, decorat cu imprimeu și broderie pe față. Material: 95% bumbac, 5% elastan, single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610636010</id>
@@ -6067,7 +5991,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, cu un mic logo al brandului pe partea din față și tivul mânecii. Material: 100% bumbac, pique]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, cu un mic logo al brandului pe partea din față și tivul mânecii. Material: 100% bumbac, pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610656308</id>
@@ -6089,7 +6013,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Ecru]]></color>
-      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială clasică, guler rotund și nasturi decorativi pe umeri. Fabricat din material de bumbac premium, cu un mic logo metalic al brandului pe spate. Material: 100% bumbac.]]></description>
+      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială clasică, guler rotund și nasturi decorativi pe umeri. Fabricat din material de bumbac premium, cu un mic logo metalic al brandului pe spate. Material: 100% bumbac. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610657527</id>
@@ -6110,7 +6034,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roșu]]></color>
-      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială regular fit, guler rotund, realizat din material cu model logo. Material: 100% bumbac single jersey]]></description>
+      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială regular fit, guler rotund, realizat din material cu model logo. Material: 100% bumbac single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610653611</id>
@@ -6133,7 +6057,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială regular fit, guler rotund, realizat din material de bumbac premium, decor brodat pe față cu branding imprimat. Material: 100% bumbac.]]></description>
+      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială regular fit, guler rotund, realizat din material de bumbac premium, decor brodat pe față cu branding imprimat. Material: 100% bumbac. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610634863</id>
@@ -6156,7 +6080,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roșu]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, cu un mic imprimeu pe față și pe mânecă. Material: 100% bumbac single jersey]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, cu un mic imprimeu pe față și pe mânecă. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610631879</id>
@@ -6178,7 +6102,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Gri]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și logo mare al brandului pe față. Material: 100% bumbac, single jersey.]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și logo mare al brandului pe față. Material: 100% bumbac, single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610653093</id>
@@ -6200,7 +6124,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou pentru femei cu mâneci scurte, croială lejeră, cu guler rotund și umeri căzuți. Cu mâneci întoarse și un logo mare al brandului imprimat pe față. Material: 50% bumbac, 50% modal, single jersey.]]></description>
+      <description><![CDATA[Tricou pentru femei cu mâneci scurte, croială lejeră, cu guler rotund și umeri căzuți. Cu mâneci întoarse și un logo mare al brandului imprimat pe față. Material: 50% bumbac, 50% modal, single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610629708</id>
@@ -6222,7 +6146,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Alb]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și imprimeu mare pe față. Material: 100% bumbac single jersey.]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și imprimeu mare pe față. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610658692</id>
@@ -6244,7 +6168,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru]]></color>
-      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială slim fit și guler rotund, realizat din material cu model, cu o etichetă mică de brand pe lateral. Material: 100% bumbac single jersey.]]></description>
+      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială slim fit și guler rotund, realizat din material cu model, cu o etichetă mică de brand pe lateral. Material: 100% bumbac single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610658012</id>
@@ -6267,7 +6191,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Kaki]]></color>
-      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială lejeră, guler rotund și umeri căzuți. Fabricat din material în dungi cu șnur lateral și un mic logo al brandului pe spate. Material: 100% bumbac, jacquard.]]></description>
+      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială lejeră, guler rotund și umeri căzuți. Fabricat din material în dungi cu șnur lateral și un mic logo al brandului pe spate. Material: 100% bumbac, jacquard. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610633835</id>
@@ -6290,7 +6214,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Ecru]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială lejeră și logo mic al brandului pe față. Material: 100% bumbac single jersey.]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială lejeră și logo mic al brandului pe față. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610629845</id>
@@ -6312,7 +6236,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, cu un imprimeu mare pe față. Material: 100% bumbac single jersey.]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, cu un imprimeu mare pe față. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610629777</id>
@@ -6335,7 +6259,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și imprimeu mare pe față. Material: 100% bumbac single jersey.]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și imprimeu mare pe față. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610629913</id>
@@ -6357,7 +6281,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Alb]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și imprimeu mare pe față. Material: 100% bumbac single jersey.]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și imprimeu mare pe față. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610658258</id>
@@ -6379,7 +6303,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roz]]></color>
-      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială slim fit și decolteu în V. Fabricat din material cu dungi, cu un mic logo al brandului pe spate. Material: 100% bumbac, jacquard.]]></description>
+      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială slim fit și decolteu în V. Fabricat din material cu dungi, cu un mic logo al brandului pe spate. Material: 100% bumbac, jacquard. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610658463</id>
@@ -6402,7 +6326,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială lejeră, guler rotund și umeri căzuți. Realizat din material în dungi cu nasturi decorativi pe umeri. Material: 50% bumbac, 50% viscoză, single jersey.]]></description>
+      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială lejeră, guler rotund și umeri căzuți. Realizat din material în dungi cu nasturi decorativi pe umeri. Material: 50% bumbac, 50% viscoză, single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610637079</id>
@@ -6448,7 +6372,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Verde]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, cu un imprimeu mare pe față. Material: 100% bumbac slub jersey.]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, cu un imprimeu mare pe față. Material: 100% bumbac slub jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610657732</id>
@@ -6470,7 +6394,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Bej]]></color>
-      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială slim fit, guler rotund și mâneci până la cot. Fabricat din material în dungi, cu un mic logo al brandului pe față. Material: 95% bumbac, 5% elastan, single jersey.]]></description>
+      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială slim fit, guler rotund și mâneci până la cot. Fabricat din material în dungi, cu un mic logo al brandului pe față. Material: 95% bumbac, 5% elastan, single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610630124</id>
@@ -6492,7 +6416,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, cu un imprimeu mare pe față. Material: 100% bumbac single jersey.]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, cu un imprimeu mare pe față. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610649928</id>
@@ -6515,7 +6439,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Negru]]></color>
-      <description><![CDATA[Bluza de damă cu guler înalt, ideală pentru alergare. Cu închidere cu fermoar și buzunare, realizată din material cu uscare rapidă și elasticitate în 4 direcții. Asorteaz-o cu pantalonii noștri ZELMA sau ZIBIA. Material: 88% poliamidă, 12% elastan.]]></description>
+      <description><![CDATA[Bluza de damă cu guler înalt, ideală pentru alergare. Cu închidere cu fermoar și buzunare, realizată din material cu uscare rapidă și elasticitate în 4 direcții. Asorteaz-o cu pantalonii noștri ZELMA sau ZIBIA. Material: 88% poliamidă, 12% elastan. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610627629</id>
@@ -6537,7 +6461,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Gri]]></color>
-      <description><![CDATA[Pantaloni de jogging pentru bărbați, parte din colecția de îmbrăcăminte activă, cu talie elastică și șnur, tiv cu nervuri și buzunar lateral. Material: 56% bumbac, 40% poliester, 4% elastan.]]></description>
+      <description><![CDATA[Pantaloni de jogging pentru bărbați, parte din colecția de îmbrăcăminte activă, cu talie elastică și șnur, tiv cu nervuri și buzunar lateral. Material: 56% bumbac, 40% poliester, 4% elastan. Modelul are 188 cm înălțime și poartă mărimea M.]]></description>
     </product>
     <product>
       <id>5996610651839</id>
@@ -6559,7 +6483,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Șorturi de jogging pentru femei, ideale pentru alergare, cu talie elastică decorată cu logo și buzunare laterale. Realizate din material cu uscare rapidă și elasticitate în 4 direcții, cu branding pe lateral. Material: 88% poliamidă, 12% elastan.]]></description>
+      <description><![CDATA[Șorturi de jogging pentru femei, ideale pentru alergare, cu talie elastică decorată cu logo și buzunare laterale. Realizate din material cu uscare rapidă și elasticitate în 4 direcții, cu branding pe lateral. Material: 88% poliamidă, 12% elastan. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610648945</id>
@@ -6582,7 +6506,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru]]></color>
-      <description><![CDATA[Bluza de damă cu guler rotund, croială slim fit, cu manșete și tiv cu nervuri, logo-ul brandului brodat pe față. Material: 58% bumbac, 38% poliester, 4% elastan, French terry. Asorteaz-o cu pantalonii noștri ZARIVAS26 sau ZOBERTA.]]></description>
+      <description><![CDATA[Bluza de damă cu guler rotund, croială slim fit, cu manșete și tiv cu nervuri, logo-ul brandului brodat pe față. Material: 58% bumbac, 38% poliester, 4% elastan, French terry. Asorteaz-o cu pantalonii noștri ZARIVAS26 sau ZOBERTA. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610648877</id>
@@ -6604,7 +6528,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Alb]]></color>
-      <description><![CDATA[Bluza de damă cu guler rotund, croială slim fit, cu manșete și tiv cu nervuri, logo-ul brandului brodat pe față. Material: 58% bumbac, 38% poliester, 4% elastan, French terry. Asorteaz-o cu pantalonii noștri ZARIVAS26 sau ZOBERTA.]]></description>
+      <description><![CDATA[Bluza de damă cu guler rotund, croială slim fit, cu manșete și tiv cu nervuri, logo-ul brandului brodat pe față. Material: 58% bumbac, 38% poliester, 4% elastan, French terry. Asorteaz-o cu pantalonii noștri ZARIVAS26 sau ZOBERTA. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610660114</id>
@@ -6626,7 +6550,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Negru]]></color>
-      <description><![CDATA[Tricou polo pentru femei cu croială slim fit, guler cu nasturi și logo mic al brandului pe față. Material: 95% bumbac, 5% elastan, single jersey.]]></description>
+      <description><![CDATA[Tricou polo pentru femei cu croială slim fit, guler cu nasturi și logo mic al brandului pe față. Material: 95% bumbac, 5% elastan, single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610645081</id>
@@ -6648,7 +6572,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Jachetă de damă din denim cu manșete și închidere cu nasturi, buzunare frontale la piept. Material: 63% bumbac, 26% poliester, 11% lyocell, denim.]]></description>
+      <description><![CDATA[Jachetă de damă din denim cu manșete și închidere cu nasturi, buzunare frontale la piept. Material: 63% bumbac, 26% poliester, 11% lyocell, denim. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610644381</id>
@@ -6671,7 +6595,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Geacă matlasată pentru femei, cu închidere cu capse și guler înalt. Logo-ul mic al brandului este pe mânecă. Material: 100% nailon.]]></description>
+      <description><![CDATA[Geacă matlasată pentru femei, cu închidere cu capse și guler înalt. Logo-ul mic al brandului este pe mânecă. Material: 100% nailon. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610633279</id>
@@ -6694,7 +6618,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Negru]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și imprimeu mare pe față. Material: 100% bumbac single jersey..]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit și imprimeu mare pe față. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610652393</id>
@@ -6716,7 +6640,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Alb]]></color>
-      <description><![CDATA[Tricou pentru femei cu mânecă 3/4, croială slim fit, guler rotund, realizat din material cu dungi și uni. Material: 95% bumbac, 5% elastan, single jersey.]]></description>
+      <description><![CDATA[Tricou pentru femei cu mânecă 3/4, croială slim fit, guler rotund, realizat din material cu dungi și uni. Material: 95% bumbac, 5% elastan, single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610621429</id>
@@ -6739,7 +6663,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru]]></color>
-      <description><![CDATA[Cămașă bărbătească cu croială confortabilă, mâneci scurte, model mic, confortabilă, realizată din material de bumbac pur. Material: 100% bumbac.]]></description>
+      <description><![CDATA[Cămașă bărbătească cu croială confortabilă, mâneci scurte, model mic, confortabilă, realizată din material de bumbac pur. Material: 100% bumbac. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610626318</id>
@@ -6762,7 +6686,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Hanorac pentru bărbați cu închidere cu fermoar, poartă-l cu pantalonii noștri ZAYDEN și ZAKURA. Material: 76% bumbac, 19% poliester, 5% elastan.]]></description>
+      <description><![CDATA[Hanorac pentru bărbați cu închidere cu fermoar, poartă-l cu pantalonii noștri ZAYDEN și ZAKURA. Material: 76% bumbac, 19% poliester, 5% elastan. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610644947</id>
@@ -6785,7 +6709,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roșu]]></color>
-      <description><![CDATA[Jachetă de damă împotriva vântului, cu guler înalt și tiv cu șnur, cu închidere cu fermoar. Material: 100% poliester twill.]]></description>
+      <description><![CDATA[Jachetă de damă împotriva vântului, cu guler înalt și tiv cu șnur, cu închidere cu fermoar. Material: 100% poliester twill. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610620149</id>
@@ -6807,7 +6731,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Bej]]></color>
-      <description><![CDATA[Vestă pentru bărbați din material matlasat ușor, cu guler înalt, buzunare cu fermoar și închidere cu fermoar. Material: 100% nailon.]]></description>
+      <description><![CDATA[Vestă pentru bărbați din material matlasat ușor, cu guler înalt, buzunare cu fermoar și închidere cu fermoar. Material: 100% nailon. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610619914</id>
@@ -6831,7 +6755,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Bej]]></color>
-      <description><![CDATA[Jachetă bărbătească în stil bomber, cu guler ridicat și manșete cu capse. Material: 100% bumbac twill.]]></description>
+      <description><![CDATA[Jachetă bărbătească în stil bomber, cu guler ridicat și manșete cu capse. Material: 100% bumbac twill. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610649577</id>
@@ -6854,7 +6778,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Hanorac pentru femei cu guler înalt și închidere cu fermoar, realizat din material elastic confortabil, cu buzunare drepte. Asortează-l cu pantalonii noștri FLUMPIS26, FLUMPILONG sau ZAMORKAS26. Material: 63% viscoză, 32% nailon, 5% elastan.]]></description>
+      <description><![CDATA[Hanorac pentru femei cu guler înalt și închidere cu fermoar, realizat din material elastic confortabil, cu buzunare drepte. Asortează-l cu pantalonii noștri FLUMPIS26, FLUMPILONG sau ZAMORKAS26. Material: 63% viscoză, 32% nailon, 5% elastan. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610625335</id>
@@ -6877,7 +6801,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Hanorac pentru bărbați cu guler înalt și fermoar la gât, asortează-l cu pantalonii noștri ZENDY și ZANNER. Material: țesătură jacquard 100% bumbac.]]></description>
+      <description><![CDATA[Hanorac pentru bărbați cu guler înalt și fermoar la gât, asortează-l cu pantalonii noștri ZENDY și ZANNER. Material: țesătură jacquard 100% bumbac. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610650573</id>
@@ -6900,7 +6824,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Bej]]></color>
-      <description><![CDATA[Hanorac pentru femei cu croială lejeră, tiv și manșete rib. Logo mare al brandului pe față. Asortează-l cu pantalonii noștri ZUMA sau ZASTER. Material: 80% bumbac, 20% poliester.]]></description>
+      <description><![CDATA[Hanorac pentru femei cu croială lejeră, tiv și manșete rib. Logo mare al brandului pe față. Asortează-l cu pantalonii noștri ZUMA sau ZASTER. Material: 80% bumbac, 20% poliester. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610626813</id>
@@ -6923,7 +6847,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Bej]]></color>
-      <description><![CDATA[Hanorac pentru bărbați cu stil de îmbrăcare pe deasupra, buzunar frontal tip marsupiu și logo-uri mici ale brandului. Material: 80% bumbac, 20% poliester, French Terry subțire.]]></description>
+      <description><![CDATA[Hanorac pentru bărbați cu stil de îmbrăcare pe deasupra, buzunar frontal tip marsupiu și logo-uri mici ale brandului. Material: 80% bumbac, 20% poliester, French Terry subțire. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610626172</id>
@@ -6946,7 +6870,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roșu]]></color>
-      <description><![CDATA[Hanorac pentru bărbați cu închidere cu fermoar, poartă-l cu pantalonii noștri ZAYDEN și ZAKURA. Material: 76% bumbac, 19% poliester, 5% elastan.]]></description>
+      <description><![CDATA[Hanorac pentru bărbați cu închidere cu fermoar, poartă-l cu pantalonii noștri ZAYDEN și ZAKURA. Material: 76% bumbac, 19% poliester, 5% elastan. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610662415</id>
@@ -6969,7 +6893,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Alb]]></color>
-      <description><![CDATA[Bluză pentru femei cu mâneci scurte, croială dreaptă, umeri căzuți, realizată din material cu model. Material: 100% bumbac.]]></description>
+      <description><![CDATA[Bluză pentru femei cu mâneci scurte, croială dreaptă, umeri căzuți, realizată din material cu model. Material: 100% bumbac. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610621054</id>
@@ -6992,7 +6916,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Cămașă pentru bărbați cu croială confortabilă, mâneci lungi, realizată dintr-un amestec de in. Material: 55% in, 45% bumbac.]]></description>
+      <description><![CDATA[Cămașă pentru bărbați cu croială confortabilă, mâneci lungi, realizată dintr-un amestec de in. Material: 55% in, 45% bumbac. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610661593</id>
@@ -7015,7 +6939,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roz]]></color>
-      <description><![CDATA[Bluză cu mânecă lungă pentru femei, croială slim fit, cu nasturi ascunși, realizată din material uni și cu model. Material: 97% bumbac, 3% elastan poplin.]]></description>
+      <description><![CDATA[Bluză cu mânecă lungă pentru femei, croială slim fit, cu nasturi ascunși, realizată din material uni și cu model. Material: 97% bumbac, 3% elastan poplin. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610661524</id>
@@ -7039,7 +6963,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Bluză cu mânecă lungă pentru femei, croială slim fit, cu nasturi ascunși, realizată din material uni și cu model. Material: 97% bumbac, 3% elastan poplin.]]></description>
+      <description><![CDATA[Bluză cu mânecă lungă pentru femei, croială slim fit, cu nasturi ascunși, realizată din material uni și cu model. Material: 97% bumbac, 3% elastan poplin. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610663269</id>
@@ -7062,7 +6986,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Alb]]></color>
-      <description><![CDATA[Bluză fără mâneci pentru femei, cu croială dreaptă, decolteu rotund și umeri cu volane. Material: 100% vâscoză.]]></description>
+      <description><![CDATA[Bluză fără mâneci pentru femei, cu croială dreaptă, decolteu rotund și umeri cu volane. Material: 100% vâscoză. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610671936</id>
@@ -7108,7 +7032,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Ecru]]></color>
-      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială regular fit, guler rotund decorat și logo mic al brandului. Material: 50% bumbac, 50% modal single jersey]]></description>
+      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, croială regular fit, guler rotund decorat și logo mic al brandului. Material: 50% bumbac, 50% modal single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610637253</id>
@@ -7131,7 +7055,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru]]></color>
-      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, realizat din material imprimat. Material: 100% bumbac single jersey.]]></description>
+      <description><![CDATA[Tricou pentru bărbați cu mânecă scurtă, guler rotund, croială regular fit, realizat din material imprimat. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610657176</id>
@@ -7154,7 +7078,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Bej]]></color>
-      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, realizat din material de bumbac premium, cu guler rotund. Croială lejeră, cu un mic logo al brandului pe față. Material: 100% bumbac.]]></description>
+      <description><![CDATA[Tricou pentru femei cu mânecă scurtă, realizat din material de bumbac premium, cu guler rotund. Croială lejeră, cu un mic logo al brandului pe față. Material: 100% bumbac. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610660251</id>
@@ -7176,7 +7100,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru]]></color>
-      <description><![CDATA[Tricou polo pentru femei cu croială slim fit, decolteu în V, logo mic al brandului pe față, realizat din material cu model. Material: 95% bumbac, 5% elastan, single jersey.]]></description>
+      <description><![CDATA[Tricou polo pentru femei cu croială slim fit, decolteu în V, logo mic al brandului pe față, realizat din material cu model. Material: 95% bumbac, 5% elastan, single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610639585</id>
@@ -7199,7 +7123,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă, croială regular și guler cu nasturi. Fabricat din material cu dungi, cu un mic logo al brandului pe față. Material: 100% bumbac, pique.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă, croială regular și guler cu nasturi. Fabricat din material cu dungi, cu un mic logo al brandului pe față. Material: 100% bumbac, pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610639936</id>
@@ -7221,7 +7145,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Bej]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă și guler, croială regular fit, decolteu în V cu guler, cu un mic logo al brandului pe față. Material: 95% bumbac, 5% elastan, pique.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă și guler, croială regular fit, decolteu în V cu guler, cu un mic logo al brandului pe față. Material: 95% bumbac, 5% elastan, pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610660183</id>
@@ -7243,7 +7167,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou polo pentru femei, cu croială slim fit, decolteu în V, logo mic al brandului pe față, realizat din material cu model. Material: 95% bumbac, 5% elastan, single jersey.]]></description>
+      <description><![CDATA[Tricou polo pentru femei, cu croială slim fit, decolteu în V, logo mic al brandului pe față, realizat din material cu model. Material: 95% bumbac, 5% elastan, single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610649225</id>
@@ -7266,7 +7190,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roșu]]></color>
-      <description><![CDATA[Bluză de damă cu guler rotund, croială lejeră, umeri căzuți și un mic logo al brandului pe față. Material: 50% viscoză, 48% poliester, 2% elastan jacquard.]]></description>
+      <description><![CDATA[Bluză de damă cu guler rotund, croială lejeră, umeri căzuți și un mic logo al brandului pe față. Material: 50% viscoză, 48% poliester, 2% elastan jacquard. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610639721</id>
@@ -7289,7 +7213,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă, croială regular și guler cu nasturi. Fabricat din material în dungi, cu un mic logo al brandului pe guler. Material: 100% bumbac, piqué.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă, croială regular și guler cu nasturi. Fabricat din material în dungi, cu un mic logo al brandului pe guler. Material: 100% bumbac, piqué. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610660046</id>
@@ -7311,7 +7235,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roșu]]></color>
-      <description><![CDATA[Tricou polo pentru femei cu croială slim fit, guler cu nasturi și logo mic al brandului pe față. Material: 95% bumbac, 5% elastan, single jersey.]]></description>
+      <description><![CDATA[Tricou polo pentru femei cu croială slim fit, guler cu nasturi și logo mic al brandului pe față. Material: 95% bumbac, 5% elastan, single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610639516</id>
@@ -7334,7 +7258,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Verde]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular fit și guler cu nasturi. Fabricat din material în dungi, cu un mic logo al brandului pe partea din față. Material: 100% bumbac, pique.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular fit și guler cu nasturi. Fabricat din material în dungi, cu un mic logo al brandului pe partea din față. Material: 100% bumbac, pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610641267</id>
@@ -7356,7 +7280,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă și croială regular fit, cu guler cu nasturi. Fabricat din material cu model, cu un mic logo al brandului pe partea din față. Material: 100% bumbac, pique.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă și croială regular fit, cu guler cu nasturi. Fabricat din material cu model, cu un mic logo al brandului pe partea din față. Material: 100% bumbac, pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610629241</id>
@@ -7379,7 +7303,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou cu mânecă lungă pentru bărbați, cu guler rotund, croială regular fit, realizat din material în dungi, cu un mic logo al brandului pe față. Material: 100% bumbac, single pique.]]></description>
+      <description><![CDATA[Tricou cu mânecă lungă pentru bărbați, cu guler rotund, croială regular fit, realizat din material în dungi, cu un mic logo al brandului pe față. Material: 100% bumbac, single pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610652676</id>
@@ -7401,7 +7325,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Negru]]></color>
-      <description><![CDATA[Tricou cu mânecă lungă pentru femei, croială slim fit, guler rotund, cu un logo mare al brandului pe față. Material: 95% bumbac, 5% elastan, single jersey.]]></description>
+      <description><![CDATA[Tricou cu mânecă lungă pentru femei, croială slim fit, guler rotund, cu un logo mare al brandului pe față. Material: 95% bumbac, 5% elastan, single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610652874</id>
@@ -7424,7 +7348,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Kaki]]></color>
-      <description><![CDATA[Tricou cu mânecă lungă pentru femei, cu croială lejeră, guler rotund și umeri căzuți, tiv elastic și logo-ul brandului pe față. Material: 50% bumbac, 50% modal, single jersey.]]></description>
+      <description><![CDATA[Tricou cu mânecă lungă pentru femei, cu croială lejeră, guler rotund și umeri căzuți, tiv elastic și logo-ul brandului pe față. Material: 50% bumbac, 50% modal, single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610652607</id>
@@ -7446,7 +7370,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou pentru femei cu mânecă 3/4, croială slim fit, guler rotund, realizat din material cu dungi și uni. Material: 95% bumbac, 5% elastan, single jersey.]]></description>
+      <description><![CDATA[Tricou pentru femei cu mânecă 3/4, croială slim fit, guler rotund, realizat din material cu dungi și uni. Material: 95% bumbac, 5% elastan, single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610629326</id>
@@ -7469,7 +7393,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Gri]]></color>
-      <description><![CDATA[Tricou cu mânecă lungă pentru bărbați, cu guler rotund, croială regular fit, dungi pe partea superioară și un mic logo al brandului pe față. Material: 100% bumbac, piqué.]]></description>
+      <description><![CDATA[Tricou cu mânecă lungă pentru bărbați, cu guler rotund, croială regular fit, dungi pe partea superioară și un mic logo al brandului pe față. Material: 100% bumbac, piqué. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610648730</id>
@@ -7492,7 +7416,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roșu]]></color>
-      <description><![CDATA[Hanorac pentru femei cu guler rotund, croială confortabilă, cu model în dungi și nasturi decorativi pe umeri. Material: 63% viscoză, 32% nailon, 5% elastan. Asortează-l cu pantalonii noștri FLUMPIS26, FLUMPILONG sau ZAMORKAS26.]]></description>
+      <description><![CDATA[Hanorac pentru femei cu guler rotund, croială confortabilă, cu model în dungi și nasturi decorativi pe umeri. Material: 63% viscoză, 32% nailon, 5% elastan. Asortează-l cu pantalonii noștri FLUMPIS26, FLUMPILONG sau ZAMORKAS26. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610641120</id>
@@ -7515,7 +7439,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Verde]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular fit și guler cu nasturi, logo mic din metal al brandului pe partea din față. Material: 100% bumbac, pique.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular fit și guler cu nasturi, logo mic din metal al brandului pe partea din față. Material: 100% bumbac, pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610641199</id>
@@ -7538,7 +7462,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă, croială regular și guler cu nasturi. Logo-ul mic al brandului este pe partea din față. Material: 100% bumbac, țesătură fluidă.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă, croială regular și guler cu nasturi. Logo-ul mic al brandului este pe partea din față. Material: 100% bumbac, țesătură fluidă. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610640635</id>
@@ -7561,7 +7485,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular fit și guler cu nasturi. Fabricat din material în dungi, cu un mic logo al brandului pe partea din față. Material: 100% bumbac, piqué.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular fit și guler cu nasturi. Fabricat din material în dungi, cu un mic logo al brandului pe partea din față. Material: 100% bumbac, piqué. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610638410</id>
@@ -7584,7 +7508,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă, croială regular fit, guler cu nasturi și logo mic al brandului pe față. Material: 100% bumbac single jersey.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă, croială regular fit, guler cu nasturi și logo mic al brandului pe față. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610640284</id>
@@ -7606,7 +7530,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Negru]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular fit și guler cu nasturi. Fabricat din material cu model, cu un mic logo al brandului pe partea din față. Material: 100% bumbac, pique.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular fit și guler cu nasturi. Fabricat din material cu model, cu un mic logo al brandului pe partea din față. Material: 100% bumbac, pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610640499</id>
@@ -7628,7 +7552,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular fit și guler cu nasturi. Logo mic al brandului pe partea din față. Material: 55% bumbac, 45% poliester, pique.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular fit și guler cu nasturi. Logo mic al brandului pe partea din față. Material: 55% bumbac, 45% poliester, pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610659415</id>
@@ -7650,7 +7574,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Blue]]></color>
-      <description><![CDATA[Tricou polo pentru femei cu croială slim fit, guler cu nasturi și logo mic al brandului pe mânecă și spate. Material: 56% bumbac, 39% poliester, 5% elastan, piqué.]]></description>
+      <description><![CDATA[Tricou polo pentru femei cu croială slim fit, guler cu nasturi și logo mic al brandului pe mânecă și spate. Material: 56% bumbac, 39% poliester, 5% elastan, piqué. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610637994</id>
@@ -7672,7 +7596,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă, croială regular fit, guler cu nasturi și logo mic al brandului pe față. Material: 100% bumbac single jersey.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă, croială regular fit, guler cu nasturi și logo mic al brandului pe față. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610659903</id>
@@ -7694,7 +7618,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou polo pentru femei, cu croială slim fit, guler cu nasturi și logo mic al brandului pe față. Material: 95% bumbac, 5% elastan, single jersey.]]></description>
+      <description><![CDATA[Tricou polo pentru femei, cu croială slim fit, guler cu nasturi și logo mic al brandului pe față. Material: 95% bumbac, 5% elastan, single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610641472</id>
@@ -7717,7 +7641,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roșu]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular fit, guler cu nasturi și logo mic al brandului pe față. Material: 100% bumbac, pique neregulat.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular fit, guler cu nasturi și logo mic al brandului pe față. Material: 100% bumbac, pique neregulat. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610641618</id>
@@ -7739,7 +7663,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular și guler cu nasturi. Fabricat din material în dungi, cu un mic logo al brandului pe partea din față. Material: 100% bumbac, pique.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular și guler cu nasturi. Fabricat din material în dungi, cu un mic logo al brandului pe partea din față. Material: 100% bumbac, pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610638205</id>
@@ -7762,7 +7686,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă, croială regular fit, guler cu nasturi și logo mic al brandului pe față. Material: 100% bumbac single jersey.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă, croială regular fit, guler cu nasturi și logo mic al brandului pe față. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610659767</id>
@@ -7784,7 +7708,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Bej]]></color>
-      <description><![CDATA[Tricou polo pentru femei cu croială slim fit, guler cu nasturi, logo mic al brandului pe față, realizat din material de bumbac premium. Material: 100% bumbac.]]></description>
+      <description><![CDATA[Tricou polo pentru femei cu croială slim fit, guler cu nasturi, logo mic al brandului pe față, realizat din material de bumbac premium. Material: 100% bumbac. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610640765</id>
@@ -7807,7 +7731,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular și guler cu nasturi. Branding pe partea din față și pe mânecă. Material: 100% bumbac, pique.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular și guler cu nasturi. Branding pe partea din față și pe mânecă. Material: 100% bumbac, pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610637918</id>
@@ -7831,7 +7755,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Alb]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă, croială regular fit, guler cu nasturi și logo mic al brandului pe față. Material: 100% bumbac single jersey.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă, croială regular fit, guler cu nasturi și logo mic al brandului pe față. Material: 100% bumbac single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610638755</id>
@@ -7854,7 +7778,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă și croială regular fit, cu guler cu nasturi. Pe partea din față se află un mic logo al brandului. Material: 100% bumbac, pique.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă și croială regular fit, cu guler cu nasturi. Pe partea din față se află un mic logo al brandului. Material: 100% bumbac, pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610659620</id>
@@ -7877,7 +7801,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roz]]></color>
-      <description><![CDATA[Tricou polo pentru femei, cu croială slim fit, guler cu fermoar și logo mic al brandului pe față. Material: 95% bumbac, 5% elastan, single jersey.]]></description>
+      <description><![CDATA[Tricou polo pentru femei, cu croială slim fit, guler cu fermoar și logo mic al brandului pe față. Material: 95% bumbac, 5% elastan, single jersey. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610622259</id>
@@ -7900,7 +7824,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru]]></color>
-      <description><![CDATA[Cămașă pentru bărbați cu croială regular fit, mâneci scurte, stil polo, realizată din material confortabil și elastic. Material: 60% bumbac, 35% poliester, 5% elastan pique.]]></description>
+      <description><![CDATA[Cămașă pentru bărbați cu croială regular fit, mâneci scurte, stil polo, realizată din material confortabil și elastic. Material: 60% bumbac, 35% poliester, 5% elastan pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610642134</id>
@@ -7923,7 +7847,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Alb]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regulară și guler cu nasturi. Fabricat din material cu uscare rapidă, cu logo pe partea din față. Material: 100% poliester.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regulară și guler cu nasturi. Fabricat din material cu uscare rapidă, cu logo pe partea din față. Material: 100% poliester. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610640079</id>
@@ -7946,7 +7870,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Negru]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular fit, guler cu nasturi și logo pe umăr. Material: 100% bumbac, pique.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular fit, guler cu nasturi și logo pe umăr. Material: 100% bumbac, pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610640901</id>
@@ -7969,7 +7893,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă și guler, croială regular fit și guler cu nasturi. Fabricat din material cu model, cu un aspect clasic. Material: 100% bumbac jacquard pique.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă și guler, croială regular fit și guler cu nasturi. Fabricat din material cu model, cu un aspect clasic. Material: 100% bumbac jacquard pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610659132</id>
@@ -7992,7 +7916,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roșu]]></color>
-      <description><![CDATA[Tricou polo pentru femei, cu croială slim fit, guler cu nasturi și logo mic al brandului pe partea din față. Material: 97% bumbac, 3% elastan, piqué.]]></description>
+      <description><![CDATA[Tricou polo pentru femei, cu croială slim fit, guler cu nasturi și logo mic al brandului pe partea din față. Material: 97% bumbac, 3% elastan, piqué. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610639868</id>
@@ -8014,7 +7938,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Cremă]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă, croială regular și guler cu nasturi. Fabricat din material în dungi, cu un mic logo al brandului pe guler. Material: 100% bumbac, piqué.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mânecă scurtă, croială regular și guler cu nasturi. Fabricat din material în dungi, cu un mic logo al brandului pe guler. Material: 100% bumbac, piqué. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610639189</id>
@@ -8036,7 +7960,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular fit, guler cu nasturi și logo mic pe partea din față. Material: 100% bumbac: pique.]]></description>
+      <description><![CDATA[Tricou polo pentru bărbați, cu mâneci scurte, croială regular fit, guler cu nasturi și logo mic pe partea din față. Material: 100% bumbac: pique. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610626523</id>
@@ -8059,7 +7983,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Hanorac pentru bărbați cu închidere cu fermoar, logo mic al brandului pe față, asortează-l cu pantalonii noștri ZWANS26. Material: 80% bumbac, 20% poliester, French Terry subțire.]]></description>
+      <description><![CDATA[Hanorac pentru bărbați cu închidere cu fermoar, logo mic al brandului pe față, asortează-l cu pantalonii noștri ZWANS26. Material: 80% bumbac, 20% poliester, French Terry subțire. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610626455</id>
@@ -8082,7 +8006,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Verde]]></color>
-      <description><![CDATA[Hanorac pentru bărbați cu închidere cu fermoar, logo mic al brandului pe față, asortează-l cu pantalonii noștri ZWANS26. Material: 80% bumbac, 20% poliester, French Terry subțire.]]></description>
+      <description><![CDATA[Hanorac pentru bărbați cu închidere cu fermoar, logo mic al brandului pe față, asortează-l cu pantalonii noștri ZWANS26. Material: 80% bumbac, 20% poliester, French Terry subțire. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610626660</id>
@@ -8105,7 +8029,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Hanorac pentru bărbați cu închidere cu fermoar, fermoar impermeabil. Parte din colecția Active wear. Asortează-l cu pantalonii noștri ZIFERDO. Material: 56% bumbac, 40% poliester, 4% elastan.]]></description>
+      <description><![CDATA[Hanorac pentru bărbați cu închidere cu fermoar, fermoar impermeabil. Parte din colecția Active wear. Asortează-l cu pantalonii noștri ZIFERDO. Material: 56% bumbac, 40% poliester, 4% elastan. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610650184</id>
@@ -8128,7 +8052,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roșu]]></color>
-      <description><![CDATA[Hanorac de damă cu fermoar, realizat din material solid și cu dungi. Asortează-l cu pantalonii noștri FLUMPIS26, FLUMPILONG sau ZAMORKAS26. Material: 63% viscoză, 32% nailon, 5% elastan.]]></description>
+      <description><![CDATA[Hanorac de damă cu fermoar, realizat din material solid și cu dungi. Asortează-l cu pantalonii noștri FLUMPIS26, FLUMPILONG sau ZAMORKAS26. Material: 63% viscoză, 32% nailon, 5% elastan. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610650368</id>
@@ -8151,7 +8075,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roz]]></color>
-      <description><![CDATA[Hanorac de damă cu fermoar, tiv și manșete ribate și logo-ul brandului pe față. Asortează-l cu pantalonii noștri ZARIVAS26 sau ZOBERTA. Material: 58% bumbac, 38% poliester, 4% elastan, French terry]]></description>
+      <description><![CDATA[Hanorac de damă cu fermoar, tiv și manșete ribate și logo-ul brandului pe față. Asortează-l cu pantalonii noștri ZARIVAS26 sau ZOBERTA. Material: 58% bumbac, 38% poliester, 4% elastan, French terry. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610626936</id>
@@ -8174,7 +8098,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Hanorac pentru bărbați cu stil de îmbrăcare pe deasupra, poartă-l cu pantalonii noștri ZAYDEN și ZAKURA. Material: 76% bumbac, 19% poliester, 5% elastan.]]></description>
+      <description><![CDATA[Hanorac pentru bărbați cu stil de îmbrăcare pe deasupra, poartă-l cu pantalonii noștri ZAYDEN și ZAKURA. Material: 76% bumbac, 19% poliester, 5% elastan. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610626592</id>
@@ -8197,7 +8121,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Hanorac pentru bărbați cu închidere cu fermoar, poartă-l cu pantalonii noștri ZENDY și ZANNER. Material: țesătură jacquard 100% bumbac.]]></description>
+      <description><![CDATA[Hanorac pentru bărbați cu închidere cu fermoar, poartă-l cu pantalonii noștri ZENDY și ZANNER. Material: țesătură jacquard 100% bumbac. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610625687</id>
@@ -8220,7 +8144,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Hanorac pentru bărbați cu guler înalt, închidere cu fermoar, buzunare drepte. Asortează-l cu pantalonii noștri ZENGOR și ZEPPAS26. Material: 80% bumbac, 20% poliester, French Terry subțire.]]></description>
+      <description><![CDATA[Hanorac pentru bărbați cu guler înalt, închidere cu fermoar, buzunare drepte. Asortează-l cu pantalonii noștri ZENGOR și ZEPPAS26. Material: 80% bumbac, 20% poliester, French Terry subțire. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610625823</id>
@@ -8243,7 +8167,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Alb]]></color>
-      <description><![CDATA[Hanorac pentru bărbați cu guler înalt, închidere cu fermoar, buzunare cu fermoar. Poartă-l cu pantalonii noștri ZAYDEN și ZAKURA. Material: 76% bumbac, 19% poliester, 5% elastan.]]></description>
+      <description><![CDATA[Hanorac pentru bărbați cu guler înalt, închidere cu fermoar, buzunare cu fermoar. Poartă-l cu pantalonii noștri ZAYDEN și ZAKURA. Material: 76% bumbac, 19% poliester, 5% elastan. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610666451</id>
@@ -8266,7 +8190,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Rochie polo fără mâneci pentru femei, cu guler cu fermoar, lungime deasupra genunchiului. Material: 97% bumbac, 3% elastan, piqué.]]></description>
+      <description><![CDATA[Rochie polo fără mâneci pentru femei, cu guler cu fermoar, lungime deasupra genunchiului. Material: 97% bumbac, 3% elastan, piqué. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610625472</id>
@@ -8289,7 +8213,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Hanorac pentru bărbați cu guler înalt și închidere cu fermoar, asortează-l cu pantalonii noștri ZENDY și ZANNER. Material: țesătură jacquard 100% bumbac.]]></description>
+      <description><![CDATA[Hanorac pentru bărbați cu guler înalt și închidere cu fermoar, asortează-l cu pantalonii noștri ZENDY și ZANNER. Material: țesătură jacquard 100% bumbac. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610626035</id>
@@ -8312,7 +8236,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Gri]]></color>
-      <description><![CDATA[Hanorac pentru bărbați cu guler înalt, închidere cu fermoar și fermoar impermeabil. Parte din colecția Active wear. Asortează-l cu pantalonii noștri ZIFERDO. Material: 56% bumbac, 40% poliester, 4% elastan.]]></description>
+      <description><![CDATA[Hanorac pentru bărbați cu guler înalt, închidere cu fermoar și fermoar impermeabil. Parte din colecția Active wear. Asortează-l cu pantalonii noștri ZIFERDO. Material: 56% bumbac, 40% poliester, 4% elastan. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610647948</id>
@@ -8334,7 +8258,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Pantaloni scurți din denim pentru femei, stil cu 5 buzunare, croială regular fit, lungime deasupra genunchiului, cu tiv îndoit. Material: 98% bumbac, 2% elastan.]]></description>
+      <description><![CDATA[Pantaloni scurți din denim pentru femei, stil cu 5 buzunare, croială regular fit, lungime deasupra genunchiului, cu tiv îndoit. Material: 98% bumbac, 2% elastan. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610666017</id>
@@ -8357,7 +8281,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Kaki]]></color>
-      <description><![CDATA[Salopetă scurtă pentru femei cu nasturi ascunși și talie reglabilă cu curea, buzunare laterale și un mic logo al brandului. Materialul este 65% bumbac, 35% viscoză.]]></description>
+      <description><![CDATA[Salopetă scurtă pentru femei cu nasturi ascunși și talie reglabilă cu curea, buzunare laterale și un mic logo al brandului. Materialul este 65% bumbac, 35% viscoză. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610666192</id>
@@ -8380,7 +8304,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Alb]]></color>
-      <description><![CDATA[Rochie tip polo pentru femei, cu guler cu nasturi, lungime deasupra genunchiului, mâneci scurte, umeri căzuți și buzunare pe față. Material: 97% bumbac, 3% elastan, piqué.]]></description>
+      <description><![CDATA[Rochie tip polo pentru femei, cu guler cu nasturi, lungime deasupra genunchiului, mâneci scurte, umeri căzuți și buzunare pe față. Material: 97% bumbac, 3% elastan, piqué. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610648013</id>
@@ -8402,7 +8326,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Negru]]></color>
-      <description><![CDATA[Pantaloni scurți pentru femei, cu craci largi, lungime deasupra genunchiului și buzunare laterale. Talie elastică cu șnur, confecționați din material cu model. Material: 100% vâscoză.]]></description>
+      <description><![CDATA[Pantaloni scurți pentru femei, cu craci largi, lungime deasupra genunchiului și buzunare laterale. Talie elastică cu șnur, confecționați din material cu model. Material: 100% vâscoză. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610624581</id>
@@ -8425,7 +8349,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru]]></color>
-      <description><![CDATA[Șorturi pentru bărbați cu croială confortabilă, buzunare frontale și un buzunar la spate, realizate din material elastic confortabil. Material: 76% bumbac, 19% poliester, 5% elastan.]]></description>
+      <description><![CDATA[Șorturi pentru bărbați cu croială confortabilă, buzunare frontale și un buzunar la spate, realizate din material elastic confortabil. Material: 76% bumbac, 19% poliester, 5% elastan. Modelul are 188 cm înălțime și poartă mărimea M.]]></description>
     </product>
     <product>
       <id>5996610648198</id>
@@ -8448,7 +8372,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru]]></color>
-      <description><![CDATA[Pantaloni scurți din denim pentru femei, stil cu 5 buzunare, talie înaltă, lungime până la mijlocul coapsei, cu tiv îndoit. Material: 100% bumbac.]]></description>
+      <description><![CDATA[Pantaloni scurți din denim pentru femei, stil cu 5 buzunare, talie înaltă, lungime până la mijlocul coapsei, cu tiv îndoit. Material: 100% bumbac. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610644527</id>
@@ -8471,7 +8395,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Alb]]></color>
-      <description><![CDATA[Vestă matlasată pentru femei, cu închidere cu fermoar și guler înalt. Buzunare plasate pe linia cusăturii și un mic logo al brandului pe partea din față. Material: 100% nailon.]]></description>
+      <description><![CDATA[Vestă matlasată pentru femei, cu închidere cu fermoar și guler înalt. Buzunare plasate pe linia cusăturii și un mic logo al brandului pe partea din față. Material: 100% nailon. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610628558</id>
@@ -8493,7 +8417,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Șorturi de jogging pentru bărbați, cu talie elastică și șnur, buzunar frontal. Material: 100% bumbac jacquard. Confortabile și elegante.]]></description>
+      <description><![CDATA[Șorturi de jogging pentru bărbați, cu talie elastică și șnur, buzunar frontal. Material: 100% bumbac jacquard. Modelul are 188 cm înălțime și poartă mărimea M. Confortabile și elegante.]]></description>
     </product>
     <product>
       <id>5996610628732</id>
@@ -8516,7 +8440,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Brown]]></color>
-      <description><![CDATA[Șorturi de jogging pentru bărbați, cu o croială lejeră, picioare mai lungi, talie elastică cu șnur. Material: 100% bumbac interlock.]]></description>
+      <description><![CDATA[Șorturi de jogging pentru bărbați, cu o croială lejeră, picioare mai lungi, talie elastică cu șnur. Material: 100% bumbac interlock. Modelul are 188 cm înălțime și poartă mărimea M.]]></description>
     </product>
     <product>
       <id>5996610627568</id>
@@ -8538,7 +8462,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Pantaloni de jogging pentru bărbați cu talie elastică și șnur, cu buzunare cu fermoar. Material: 76% bumbac, 19% poliester, 5% elastan.]]></description>
+      <description><![CDATA[Pantaloni de jogging pentru bărbați cu talie elastică și șnur, cu buzunare cu fermoar. Material: 76% bumbac, 19% poliester, 5% elastan. Modelul are 188 cm înălțime și poartă mărimea M.]]></description>
     </product>
     <product>
       <id>5996610650696</id>
@@ -8561,7 +8485,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Pantaloni de jogging pentru femei, cu croială confortabilă, picioare conice, talie elastică cu șnur și buzunare laterale. Material: 58% bumbac, 38% poliester, 4% elastan, French terry.]]></description>
+      <description><![CDATA[Pantaloni de jogging pentru femei, cu croială confortabilă, picioare conice, talie elastică cu șnur și buzunare laterale. Material: 58% bumbac, 38% poliester, 4% elastan, French terry. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610628855</id>
@@ -8584,7 +8508,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Negru]]></color>
-      <description><![CDATA[Șorturile de jogging pentru bărbați pot fi folosite ca șorturi de alergare, fiind confecționate dintr-un material elastic și cu uscare rapidă. Material: 57% poliester, 43% elastan.]]></description>
+      <description><![CDATA[Șorturile de jogging pentru bărbați pot fi folosite ca șorturi de alergare, fiind confecționate dintr-un material elastic și cu uscare rapidă. Material: 57% poliester, 43% elastan. Modelul are 188 cm înălțime și poartă mărimea M.]]></description>
     </product>
     <product>
       <id>5996610627261</id>
@@ -8606,7 +8530,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Pantaloni de jogging pentru bărbați cu talie elastică și șnur, manșete ribate și buzunare laterale. Material: 80% bumbac, 20% poliester, French Terry ușor.]]></description>
+      <description><![CDATA[Pantaloni de jogging pentru bărbați cu talie elastică și șnur, manșete ribate și buzunare laterale. Material: 80% bumbac, 20% poliester, French Terry ușor. Modelul are 188 cm înălțime și poartă mărimea M.]]></description>
     </product>
     <product>
       <id>5996610627742</id>
@@ -8629,7 +8553,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Pantaloni de jogging pentru bărbați, cu talie elastică și șnur, și buzunare laterale. Material: țesătură jacquard 100% bumbac.]]></description>
+      <description><![CDATA[Pantaloni de jogging pentru bărbați, cu talie elastică și șnur, și buzunare laterale. Material: țesătură jacquard 100% bumbac. Modelul are 188 cm înălțime și poartă mărimea M.]]></description>
     </product>
     <product>
       <id>5996610627445</id>
@@ -8651,7 +8575,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Pantaloni de jogging pentru bărbați cu talie elastică și șnur, și buzunar cu fermoar. Material: 80% bumbac, 20% poliester, French terry subțire.]]></description>
+      <description><![CDATA[Pantaloni de jogging pentru bărbați cu talie elastică și șnur, și buzunar cu fermoar. Material: 80% bumbac, 20% poliester, French terry subțire. Modelul are 188 cm înălțime și poartă mărimea M.]]></description>
     </product>
     <product>
       <id>5996610651334</id>
@@ -8674,7 +8598,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Negru]]></color>
-      <description><![CDATA[Pantaloni pentru femei, design ideal pentru alergare, cu o croială confortabilă, picioare conice, elastic, talie cu șnur, închidere cu fermoar și nasture ascuns. Material: 88% poliamidă, 12% elastan, țesătură cu uscare rapidă și elasticitate în patru direcții.]]></description>
+      <description><![CDATA[Pantaloni pentru femei, design ideal pentru alergare, cu o croială confortabilă, picioare conice, elastic, talie cu șnur, închidere cu fermoar și nasture ascuns. Material: 88% poliamidă, 12% elastan, țesătură cu uscare rapidă și elasticitate în patru direcții. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610651075</id>
@@ -8696,7 +8620,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Pantaloni de jogging pentru femei, cu croială normală, manșete cauciucate, talie reglabilă și buzunare laterale. Material: 58% bumbac, 38% poliester, 4% elastan, French terry.]]></description>
+      <description><![CDATA[Pantaloni de jogging pentru femei, cu croială normală, manșete cauciucate, talie reglabilă și buzunare laterale. Material: 58% bumbac, 38% poliester, 4% elastan, French terry. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610627797</id>
@@ -8718,7 +8642,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Verde]]></color>
-      <description><![CDATA[Șorturi de jogging pentru bărbați cu talie elastică și șnur, și un buzunar cu fermoar. Material: 80% bumbac, 20% poliester, French terry subțire.]]></description>
+      <description><![CDATA[Șorturi de jogging pentru bărbați cu talie elastică și șnur, și un buzunar cu fermoar. Material: 80% bumbac, 20% poliester, French terry subțire. Modelul are 188 cm înălțime și poartă mărimea M.]]></description>
     </product>
     <product>
       <id>5996610650832</id>
@@ -8740,7 +8664,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roz]]></color>
-      <description><![CDATA[Pantaloni de jogging pentru femei, cu croială confortabilă, manșete ribate, talie elastică cu șnur și buzunare laterale. Material: 58% bumbac, 38% poliester, 4% elastan, French terry.]]></description>
+      <description><![CDATA[Pantaloni de jogging pentru femei, cu croială confortabilă, manșete ribate, talie elastică cu șnur și buzunare laterale. Material: 58% bumbac, 38% poliester, 4% elastan, French terry. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610651938</id>
@@ -8762,7 +8686,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roșu]]></color>
-      <description><![CDATA[Șorturi de jogging pentru femei, lungime până la mijlocul coapsei, tiv cu manșetă, talie elastică ajustabilă cu șnur. Material: 63% viscoză, 32% nailon, 5% elastan.]]></description>
+      <description><![CDATA[Șorturi de jogging pentru femei, lungime până la mijlocul coapsei, tiv cu manșetă, talie elastică ajustabilă cu șnur. Material: 63% viscoză, 32% nailon, 5% elastan. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610627865</id>
@@ -8785,7 +8709,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Gri]]></color>
-      <description><![CDATA[Șorturi de jogging pentru bărbați cu talie elastică și șnur, și buzunar cu fermoar. Material: 80% bumbac, 20% poliester, realizat din țesătură subțire French Terry.]]></description>
+      <description><![CDATA[Șorturi de jogging pentru bărbați cu talie elastică și șnur, și buzunar cu fermoar. Material: 80% bumbac, 20% poliester, realizat din țesătură subțire French Terry. Modelul are 188 cm înălțime și poartă mărimea M.]]></description>
     </product>
     <product>
       <id>5996610619778</id>
@@ -8808,7 +8732,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Jachetă bărbătească de tip bomber, cu guler înalt, tiv și manșete ribate, buzunare cu fermoar și un buzunar interior cu fermoar. Material: 100% bumbac twill.]]></description>
+      <description><![CDATA[Jachetă bărbătească de tip bomber, cu guler înalt, tiv și manșete ribate, buzunare cu fermoar și un buzunar interior cu fermoar. Material: 100% bumbac twill. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610619570</id>
@@ -8831,7 +8755,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Negru]]></color>
-      <description><![CDATA[Jachetă pentru bărbați cu funcție de impermeabil, realizată din material rezistent la apă și vânt. Cu cusături lipite, glugă reglabilă, fermoare impermeabile și un buzunar interior. Materialul este 100% poliester.]]></description>
+      <description><![CDATA[Jachetă pentru bărbați cu funcție de impermeabil, realizată din material rezistent la apă și vânt. Cu cusături lipite, glugă reglabilă, fermoare impermeabile și un buzunar interior. Materialul este 100% poliester. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610662293</id>
@@ -8854,7 +8778,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Verde]]></color>
-      <description><![CDATA[Bluză cu mânecă lungă pentru femei, cu croială dreaptă, confecționată din material cu model. Material: 100% bumbac.]]></description>
+      <description><![CDATA[Bluză cu mânecă lungă pentru femei, cu croială dreaptă, confecționată din material cu model. Material: 100% bumbac. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610620439</id>
@@ -8877,7 +8801,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
-      <description><![CDATA[Cămașă pentru bărbați cu design stretch, mâneci lungi, culoare uni și model mic, realizată din material confortabil și elastic. Material: 97% bumbac, 3% elastan.]]></description>
+      <description><![CDATA[Cămașă pentru bărbați cu design stretch, mâneci lungi, culoare uni și model mic, realizată din material confortabil și elastic. Material: 97% bumbac, 3% elastan. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610620835</id>
@@ -8899,7 +8823,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roșu]]></color>
-      <description><![CDATA[Cămașă bărbătească cu croială comfort fit, mâneci lungi și guler cu nasturi. Model în carouri, realizată din material confortabil și elastic. Material: 97% bumbac, 3% elastan.]]></description>
+      <description><![CDATA[Cămașă bărbătească cu croială comfort fit, mâneci lungi și guler cu nasturi. Model în carouri, realizată din material confortabil și elastic. Material: 97% bumbac, 3% elastan. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610661739</id>
@@ -8921,7 +8845,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Negru]]></color>
-      <description><![CDATA[Bluză cu mânecă lungă pentru femei, cu croială dreaptă, realizată din material uni și cu model. Material: 97% bumbac, 3% elastan poplin.]]></description>
+      <description><![CDATA[Bluză cu mânecă lungă pentru femei, cu croială dreaptă, realizată din material uni și cu model. Material: 97% bumbac, 3% elastan poplin. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
     </product>
     <product>
       <id>5996610629104</id>
@@ -8942,7 +8866,7 @@
       <quantity>1</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Alb]]></color>
-      <description><![CDATA[Tricou cu mânecă lungă pentru bărbați, cu guler rotund, croială regular fit, cu branding pe față. Material: 100% bumbac, single jersey.]]></description>
+      <description><![CDATA[Tricou cu mânecă lungă pentru bărbați, cu guler rotund, croială regular fit, cu branding pe față. Material: 100% bumbac, single jersey. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
     </product>
     <product>
       <id>5996610583468</id>
