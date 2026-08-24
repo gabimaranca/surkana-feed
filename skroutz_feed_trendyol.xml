@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-  <created_at>2026-08-21 17:10:07</created_at>
+  <created_at>2026-08-24 11:44:32</created_at>
   <products>
     <product>
       <id>8434685528870</id>
@@ -2167,6 +2167,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T40-022W25</mpn>
       <ean>5996610560674</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2184,6 +2185,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T20-065W25</mpn>
       <ean>5996610560018</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2206,6 +2208,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T15-032W25</mpn>
       <ean>5996610560476</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2228,6 +2231,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T15-039W25</mpn>
       <ean>5996610560544</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2249,6 +2253,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T15-033W25</mpn>
       <ean>5996610560483</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2270,6 +2275,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T22-006W25</mpn>
       <ean>5996610561473</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2291,6 +2297,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T15-040W25</mpn>
       <ean>5996610560551</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2313,6 +2320,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T14-030W25</mpn>
       <ean>5996610576859</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2334,6 +2342,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T02-021W25</mpn>
       <ean>5996610558367</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2355,6 +2364,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T02-017W25</mpn>
       <ean>5996610558329</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2377,6 +2387,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T20-051W25</mpn>
       <ean>5996610559920</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2399,6 +2410,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T01-011W25</mpn>
       <ean>5996610557667</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2420,6 +2432,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T20-054W25</mpn>
       <ean>5996610559951</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2442,6 +2455,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T02-018W25</mpn>
       <ean>5996610558336</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2464,6 +2478,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T20-053W25</mpn>
       <ean>5996610559944</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2485,6 +2500,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T20-052W25</mpn>
       <ean>5996610559937</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2506,6 +2522,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T20-063W25</mpn>
       <ean>5996610559999</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2528,6 +2545,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T20-055W25</mpn>
       <ean>5996610560025</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2550,6 +2568,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T43-007W25</mpn>
       <ean>5996610560391</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2571,6 +2590,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T02-023W25</mpn>
       <ean>5996610558381</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2591,6 +2611,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T20-066W25</mpn>
       <ean>5996610560025</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2612,6 +2633,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T20-062W25</mpn>
       <ean>5996610559982</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2633,6 +2655,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T43-008W25</mpn>
       <ean>5996610560407</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2654,6 +2677,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T39-020W25</mpn>
       <ean>5996610559753</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2676,6 +2700,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T42-013W25</mpn>
       <ean>5996610559234</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2697,6 +2722,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T52-041W25</mpn>
       <ean>5996610565471</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2719,6 +2745,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T88-001W25</mpn>
       <ean>5996610561329</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2741,6 +2768,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T54-008W25</mpn>
       <ean>5996610557711</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2762,6 +2790,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T53-023W25</mpn>
       <ean>5996610559456</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2783,6 +2812,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T52-037W25</mpn>
       <ean>5996610565983</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2804,6 +2834,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T53-035W25</mpn>
       <ean>5996610559579</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2825,6 +2856,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T53-033W25</mpn>
       <ean>5996610559555</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2846,6 +2878,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T53-027W25</mpn>
       <ean>5996610559494</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2867,6 +2900,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T17-066W25</mpn>
       <ean>5996610560667</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2887,6 +2921,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T52-040W25</mpn>
       <ean>5996610559401</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2908,6 +2943,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T17-062W25</mpn>
       <ean>5996610560636</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2929,6 +2965,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T17-057W25</mpn>
       <ean>5996610560582</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2950,6 +2987,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T17-056W25</mpn>
       <ean>5996610560575</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2971,6 +3009,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T17-064W25</mpn>
       <ean>5996610560650</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -2992,6 +3031,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T52-031W25</mpn>
       <ean>5996610559319</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3013,6 +3053,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T17-061W25</mpn>
       <ean>5996610560629</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3034,6 +3075,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T16-095W25</mpn>
       <ean>5996610561077</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3055,6 +3097,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T16-061W25</mpn>
       <ean>5996610561183</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3076,6 +3119,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T16-110W25</mpn>
       <ean>5996610561220</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3096,6 +3140,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T16-105W25</mpn>
       <ean>5996610561176</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3117,6 +3162,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T17-063W25</mpn>
       <ean>5996610560643</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3138,6 +3184,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T16-109W25</mpn>
       <ean>5996610561213</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3159,6 +3206,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T17-060W25</mpn>
       <ean>5996610560612</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3180,6 +3228,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T17-058W25</mpn>
       <ean>5996610560599</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3201,6 +3250,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T16-093W25</mpn>
       <ean>5996610561053</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3222,6 +3272,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T49-009W25</mpn>
       <ean>5996610560919</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3244,6 +3295,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T40-027W25</mpn>
       <ean>5996610560728</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3265,6 +3317,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T39-024W25</mpn>
       <ean>5996610559777</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3286,6 +3339,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T40-026W25</mpn>
       <ean>5996610560711</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3308,6 +3362,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T39-026W25</mpn>
       <ean>5996610559814</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3329,6 +3384,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T35-022W25</mpn>
       <ean>5996610563712</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3350,6 +3406,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T16-098W25</mpn>
       <ean>5996610561107</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3371,6 +3428,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T40-032W25</mpn>
       <ean>5996610560742</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3392,6 +3450,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T39-022W25</mpn>
       <ean>5996610559777</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3412,6 +3471,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T04-021W25</mpn>
       <ean>5996610560056</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3631,6 +3691,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T40-025W25</mpn>
       <ean>5996610560704</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3652,6 +3713,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T04-030W25</mpn>
       <ean>5996610560148</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3673,6 +3735,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T03-031W25</mpn>
       <ean>5996610558435</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3694,6 +3757,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T03-032W25</mpn>
       <ean>5996610558442</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3715,6 +3779,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T03-044W25</mpn>
       <ean>5996610558565</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3736,6 +3801,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T03-033W25</mpn>
       <ean>5996610558459</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3757,6 +3823,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T04-028W25</mpn>
       <ean>5996610560124</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3778,6 +3845,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T03-037W25</mpn>
       <ean>5996610558497</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3799,6 +3867,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T04-026W25</mpn>
       <ean>5996610560100</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3820,6 +3889,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T03-046W25</mpn>
       <ean>5996610558589</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3841,6 +3911,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T04-031W25</mpn>
       <ean>5996610560155</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3884,6 +3955,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T03-039W25</mpn>
       <ean>5996610558510</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3905,6 +3977,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T05-028W25</mpn>
       <ean>5996610561381</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3926,6 +3999,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T05-024W25</mpn>
       <ean>5996610561343</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3947,6 +4021,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T05-023W25</mpn>
       <ean>5996610560032</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -3968,6 +4043,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T05-026W25</mpn>
       <ean>5996610561367</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -4100,6 +4176,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T08-028W25</mpn>
       <ean>5996610560261</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
@@ -4980,6 +5057,7 @@
       <vat>21</vat>
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
+      <mpn>T07-019W25</mpn>
       <ean>5996610558701</ean>
       <instock>Y</instock>
       <quantity>1</quantity>
