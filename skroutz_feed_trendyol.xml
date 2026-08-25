@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-  <created_at>2026-08-25 12:06:32</created_at>
+  <created_at>2026-08-25 12:34:33</created_at>
   <products>
     <product>
       <id>8434685528870</id>
@@ -13785,6 +13785,11 @@
       <name><![CDATA[Eșarfă tubulară tricotată pentru femei PAKAO ECRU]]></name>
       <link><![CDATA[https://www.trendyol.com/ro/heavy-tools/x-p-1042024735?merchantId=1161950]]></link>
       <image><![CDATA[https://cdn.dsmcdn.com/ty1780/prod/QC_PREP/20251029/10/6bf3b60e-99b9-3d27-8d42-f560fc2324f2/1_org_zoom.jpg]]></image>
+      <additional_imageurl>
+        <additional_image><![CDATA[https://raw.githubusercontent.com/gabimaranca/surkana-feed/master/poze/5996610431974_2.jpg]]></additional_image>
+        <additional_image><![CDATA[https://raw.githubusercontent.com/gabimaranca/surkana-feed/master/poze/5996610431974_3.jpg]]></additional_image>
+        <additional_image><![CDATA[https://raw.githubusercontent.com/gabimaranca/surkana-feed/master/poze/5996610431974_4.jpg]]></additional_image>
+      </additional_imageurl>
       <category><![CDATA[Accesorii > Femei > Eșarfe]]></category>
       <price_with_vat>28.99</price_with_vat>
       <vat>21</vat>
