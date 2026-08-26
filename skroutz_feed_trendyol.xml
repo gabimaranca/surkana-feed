@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-  <created_at>2026-08-25 12:34:33</created_at>
+  <created_at>2026-08-26 18:02:48</created_at>
   <products>
     <product>
       <id>8434685528870</id>
@@ -2037,8 +2037,8 @@
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
       <mpn>B05-010S26</mpn>
-      <instock>Y</instock>
-      <quantity>1</quantity>
+      <instock>N</instock>
+      <quantity>0</quantity>
       <size><![CDATA[Standard]]></size>
       <color><![CDATA[Bleumarin]]></color>
       <description><![CDATA[Brand Heavy Tools. Rucsacuri, culoare bleumarin, marime Standard.]]></description>
