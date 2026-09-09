@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-  <created_at>2026-09-07 12:59:07</created_at>
+  <created_at>2026-09-09 11:31:56</created_at>
   <products>
     <product>
       <id>8434685528870</id>
@@ -6801,8 +6801,8 @@
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
       <mpn>T36032S2601.M</mpn>
       <ean>5996610644947</ean>
-      <instock>Y</instock>
-      <quantity>1</quantity>
+      <instock>N</instock>
+      <quantity>0</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Roșu]]></color>
       <description><![CDATA[Jachetă de damă împotriva vântului, cu guler înalt și tiv cu șnur, cu închidere cu fermoar. Material: 100% poliester twill. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
