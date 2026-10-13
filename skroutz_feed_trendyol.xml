@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mywebstore>
-  <created_at>2026-09-29 18:17:03</created_at>
+  <created_at>2026-10-13 11:19:58</created_at>
   <products>
     <product>
       <id>8434685528870</id>
@@ -1834,8 +1834,8 @@
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
       <mpn>B06-015S26</mpn>
-      <instock>Y</instock>
-      <quantity>1</quantity>
+      <instock>N</instock>
+      <quantity>0</quantity>
       <size><![CDATA[Standard]]></size>
       <color><![CDATA[Bleumarin]]></color>
       <description><![CDATA[Brand Heavy Tools. Genți de umăr, culoare bleumarin, marime Standard.]]></description>
@@ -2124,8 +2124,8 @@
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
       <mpn>B13-005S26</mpn>
-      <instock>Y</instock>
-      <quantity>1</quantity>
+      <instock>N</instock>
+      <quantity>0</quantity>
       <size><![CDATA[Standard]]></size>
       <color><![CDATA[Kaki]]></color>
       <description><![CDATA[Brand Heavy Tools. Rucsacuri, culoare kaki, marime Standard.]]></description>
@@ -6893,8 +6893,8 @@
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
       <mpn>T05048S2601.M</mpn>
       <ean>5996610625335</ean>
-      <instock>Y</instock>
-      <quantity>1</quantity>
+      <instock>N</instock>
+      <quantity>0</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Albastru închis]]></color>
       <description><![CDATA[Hanorac pentru bărbați cu guler înalt și fermoar la gât, asortează-l cu pantalonii noștri ZENDY și ZANNER. Material: țesătură jacquard 100% bumbac. Modelul are 188 cm înălțime și poartă mărimea L.]]></description>
@@ -7666,8 +7666,8 @@
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
       <mpn>T21016S2601.M</mpn>
       <ean>5996610659415</ean>
-      <instock>Y</instock>
-      <quantity>1</quantity>
+      <instock>N</instock>
+      <quantity>0</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Blue]]></color>
       <description><![CDATA[Tricou polo pentru femei cu croială slim fit, guler cu nasturi și logo mic al brandului pe mânecă și spate. Material: 56% bumbac, 39% poliester, 5% elastan, piqué. Modelul are 175 cm înălțime și poartă mărimea S.]]></description>
@@ -9344,8 +9344,8 @@
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
       <mpn>T36022W2501.M</mpn>
       <ean>5996610583819</ean>
-      <instock>Y</instock>
-      <quantity>1</quantity>
+      <instock>N</instock>
+      <quantity>0</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Verde mint]]></color>
       <description><![CDATA[Jachetă pentru femei pentru activități în aer liber, realizată din material moderat impermeabil, cu o croială confortabilă, dar feminină, glugă fixă reglabilă, închidere cu fermoar, clapetă de vânt cu patent, manșetă reglabilă cu patent la mâneci, buzunare cu clapetă și mici însemne ale mărcii. Material: exterior: 100% poliester, căptușeală: 100% poliester. Modelul are 175 cm înălțime și poartă mărimea S]]></description>
@@ -12244,8 +12244,8 @@
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
       <mpn>F1W23102BL.L</mpn>
-      <instock>Y</instock>
-      <quantity>1</quantity>
+      <instock>N</instock>
+      <quantity>0</quantity>
       <size><![CDATA[L]]></size>
       <color><![CDATA[Negru]]></color>
       <description><![CDATA[Jacheta pentru barbati, usor impermeabila. Decor cu logo mic. Material: exterior: 100% poliester, soft shell, captuseala: matlasata, 100% poliester, umplutura: 100% polieszter. Modelul are o inaltime de 188 cm si poarta marimea L]]></description>
@@ -12600,8 +12600,8 @@
       <availability>In Stock</availability>
       <manufacturer><![CDATA[Heavy Tools]]></manufacturer>
       <mpn>T36-013S25</mpn>
-      <instock>Y</instock>
-      <quantity>1</quantity>
+      <instock>N</instock>
+      <quantity>0</quantity>
       <size><![CDATA[M]]></size>
       <color><![CDATA[Multicolor]]></color>
       <description><![CDATA[Geaca dama cu fermoar si umplutura, cu modele interesante, croiala confortabila si feminina, buzunare cu refilet, clapeta interioara de protectie impotriva vantului, logo mic pe maneca. Material: suprafata: 100% poliester, captuseala: 100% nylon, umplutura: 100% poliester, usoara. Modelul are 175 cm inaltime si poarta marimea M.]]></description>
